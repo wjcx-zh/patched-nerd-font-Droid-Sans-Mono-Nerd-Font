@@ -1,0 +1,1 @@
+# patched-nerd-font-Droid-Sans-Mono-Nerd-Font
